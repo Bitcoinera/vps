@@ -1,12 +1,12 @@
-# Phore Masternode VPS Installation
+# Lytix Masternode VPS Installation
 
-This masternode installation script vastly simplifies the setup of a Phore masternode running on a virtual private server (VPS), and it also adds a number of other powerful features, including:
+This masternode installation script vastly simplifies the setup of a Lytix masternode running on a virtual private server (VPS), and it also adds a number of other powerful features, including:
 
 * IPv6 Support
-* Installs 1-100 (or more!) Phore masternodes in parallel on one VPS, with individual phore.conf and data directories
-* It can install masternodes for other coins on the same VPS as Phore
+* Installs 1-100 (or more!) Lytix masternodes in parallel on one VPS, with individual lytix.conf and data directories
+* It can install masternodes for other coins on the same VPS as Lytix
 * 100% auto-compilation and 99% of configuration on the masternode side of things
-* Automatically compiling from the latest Phore release tag, or another tag can be specified
+* Automatically compiling from the latest Lytix release tag, or another tag can be specified
 * Some security hardening is done, including firewalling and a separate user, increasing security
 * Automatic startup for all masternode daemons
 
